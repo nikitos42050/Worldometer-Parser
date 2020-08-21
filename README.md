@@ -1,10 +1,10 @@
-# Worldometers Coronavirus parser
+# Worldometers Parser (COVID-19)
 Парсер страницы [случаев](https://www.worldometers.info/coronavirus/) Уханьского коронавируса и [стран, где он распространился](https://www.worldometers.info/coronavirus/countries-where-coronavirus-has-spread/).
 
 Class for parsing Worldometers pages about Wuhan coronavirus: [cases](https://www.worldometers.info/coronavirus/) and [countries where coronavirus has spread](https://www.worldometers.info/coronavirus/countries-where-coronavirus-has-spread/).
 
 ## Использование
-Подключите файл в свой проект и создайте экземпляр класса `WmParser`:
+Подключите файл в свой проект и создайте экземпляр класса `WorldParser`:
 
 ```php
 include 'parser.php';
