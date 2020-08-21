@@ -8,7 +8,7 @@ Class for parsing Worldometers pages about Wuhan coronavirus: [cases](https://ww
 
 ```php
 include 'parser.php';
-$parser = new WmParser();
+$parser = new WorldParser();
 ```
 
 ### getCases
